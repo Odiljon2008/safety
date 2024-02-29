@@ -706,10 +706,6 @@ video {
 .p-6 {
   padding: 1.5rem;
 }
-.px-12 {
-  padding-left: 3rem;
-  padding-right: 3rem;
-}
 .px-14 {
   padding-left: 3.5rem;
   padding-right: 3.5rem;
@@ -871,7 +867,6 @@ video {
 .duration-300 {
   transition-duration: 300ms;
 }
-
 @media (min-width: 640px) {
 
   .sm\:flex {
@@ -883,7 +878,6 @@ video {
     padding-right: 1.5rem;
   }
 }
-
 @media (min-width: 768px) {
 
   .md\:order-none {
@@ -925,7 +919,6 @@ video {
     line-height: 1;
   }
 }
-
 @media (min-width: 1024px) {
 
   .lg\:order-none {
